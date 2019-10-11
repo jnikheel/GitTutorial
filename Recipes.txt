@@ -12,3 +12,6 @@ technical skills:
 
 Certifications:
 1. GCP
+
+
+done my changes
