@@ -7,6 +7,11 @@ technical skills:
 2. Angular JS
 3. Git
 4. Spring
+5. Spring Boot
+6. Spring Cloud
+
+Certifications:
+1. GCP
 
 
 Final copy
