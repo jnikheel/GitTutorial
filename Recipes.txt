@@ -6,3 +6,4 @@ technical skills:
 1. Java
 2. Angular JS
 3. Git
+4. Spring
