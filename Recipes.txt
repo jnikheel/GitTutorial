@@ -7,3 +7,6 @@ technical skills:
 2. Angular JS
 3. Git
 4. Spring
+
+
+Final copy
